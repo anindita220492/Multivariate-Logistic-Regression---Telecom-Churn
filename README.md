@@ -5,6 +5,7 @@ Building a logistic regression model in Python.
 We will use 21 variables related to customer behaviour (such as the monthly bill, internet usage etc.) to predict whether a particular customer will switch to another telecom provider or not (i.e. churn or not).
 
 Problem Statment:
+
 You have a telecom firm which has collected data of all its customers. The main types of attributes are:
 
 Demographics (age, gender etc.)
